@@ -1,1 +1,1 @@
-web: gunicorn ziwosmih.wsgi
+web: gunicorn fasomarket.wsgi
